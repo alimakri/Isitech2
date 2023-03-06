@@ -29,3 +29,12 @@ inner join Sales.SalesOrderHeader h on h.SalesOrderID = d.SalesOrderID
 inner join Production.Product p on p.ProductID = d.ProductID
 GROUP BY h.SalesOrderNumber, h.OrderDate
 order by Total desc
+
+-- CA par produit
+select p.Name Produit, SUM(d.UnitPrice * d.OrderQty) CA  
+from Sales.SalesOrderDetail d 
+inner join Production.Product p on p.ProductID = d.ProductID
+GROUP BY p.Name
+order by CA desc
+
+
