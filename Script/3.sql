@@ -14,16 +14,24 @@ select 'D1', 4
 
 select * into #t2 from
 (
-select 'A2' lettre
+select 1 id, 'A2' lettre
 UNION ALL
-select 'B2'
+select 2, 'B2'
 UNION ALL
-select 'C2'
+select 3, 'C2'
 UNION ALL
-select 'D2'
+select 4, 'D2'
 ) t
 
 select * from #t1
 select * from #t2
 
 
+select * from #t1, #t2
+
+
+select * from #t1, #t2
+where #t1.lien = #t2.id
+
+select * from #t1 
+inner join #t2 on #t1.lien = #t2.id
