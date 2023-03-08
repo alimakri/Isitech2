@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.5.33424.131
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesDonnees", "AccesDonnees\AccesDonnees.csproj", "{F6A28322-5A2A-4DF1-BE17-61ECF9E8AFD9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoEF", "DemoEF\DemoEF.csproj", "{32FF95ED-770C-476B-8A50-0853C69AE04C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLinq", "DemoLinq\DemoLinq.csproj", "{2694D230-4817-4CD8-838B-AA1F58A910F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangementPrenom", "ChangementPrenom\ChangementPrenom.csproj", "{E4623ED3-3EFA-4843-ADC9-5272CBEFA762}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{32FF95ED-770C-476B-8A50-0853C69AE04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32FF95ED-770C-476B-8A50-0853C69AE04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32FF95ED-770C-476B-8A50-0853C69AE04C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2694D230-4817-4CD8-838B-AA1F58A910F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2694D230-4817-4CD8-838B-AA1F58A910F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2694D230-4817-4CD8-838B-AA1F58A910F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2694D230-4817-4CD8-838B-AA1F58A910F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4623ED3-3EFA-4843-ADC9-5272CBEFA762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4623ED3-3EFA-4843-ADC9-5272CBEFA762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4623ED3-3EFA-4843-ADC9-5272CBEFA762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4623ED3-3EFA-4843-ADC9-5272CBEFA762}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

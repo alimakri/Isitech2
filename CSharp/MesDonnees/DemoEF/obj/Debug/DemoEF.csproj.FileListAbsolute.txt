@@ -1,0 +1,13 @@
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoEF\bin\Debug\DemoEF.exe.config
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoEF\bin\Debug\DemoEF.exe
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoEF\bin\Debug\DemoEF.pdb
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoEF\bin\Debug\EntityFramework.dll
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoEF\bin\Debug\EntityFramework.xml
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoEF\bin\Debug\fr\EntityFramework.resources.dll
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoEF\obj\Debug\DemoEF.csproj.AssemblyReference.cache
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoEF\obj\Debug\DemoEF.csproj.CoreCompileInputs.cache
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoEF\obj\Debug\DemoEF.csproj.CopyComplete
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoEF\obj\Debug\DemoEF.exe
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoEF\obj\Debug\DemoEF.pdb

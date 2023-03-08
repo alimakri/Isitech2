@@ -1,0 +1,7 @@
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoLinq\bin\Debug\DemoLinq.exe.config
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoLinq\bin\Debug\DemoLinq.exe
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoLinq\bin\Debug\DemoLinq.pdb
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoLinq\obj\Debug\DemoLinq.csproj.AssemblyReference.cache
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoLinq\obj\Debug\DemoLinq.csproj.CoreCompileInputs.cache
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoLinq\obj\Debug\DemoLinq.exe
+D:\IsiTech\Depot2\CSharp\MesDonnees\DemoLinq\obj\Debug\DemoLinq.pdb
