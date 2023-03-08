@@ -1,0 +1,8 @@
+C:\Users\alima\source\repos\MesDonnees\AccesDonnees\bin\Debug\AccesDonnees.exe.config
+C:\Users\alima\source\repos\MesDonnees\AccesDonnees\bin\Debug\AccesDonnees.exe
+C:\Users\alima\source\repos\MesDonnees\AccesDonnees\bin\Debug\AccesDonnees.pdb
+C:\Users\alima\source\repos\MesDonnees\AccesDonnees\obj\Debug\AccesDonnees.csproj.AssemblyReference.cache
+C:\Users\alima\source\repos\MesDonnees\AccesDonnees\obj\Debug\AccesDonnees.csproj.SuggestedBindingRedirects.cache
+C:\Users\alima\source\repos\MesDonnees\AccesDonnees\obj\Debug\AccesDonnees.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\MesDonnees\AccesDonnees\obj\Debug\AccesDonnees.exe
+C:\Users\alima\source\repos\MesDonnees\AccesDonnees\obj\Debug\AccesDonnees.pdb

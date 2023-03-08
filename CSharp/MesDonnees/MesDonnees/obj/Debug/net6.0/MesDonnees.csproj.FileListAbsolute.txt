@@ -1,0 +1,15 @@
+C:\Users\alima\source\repos\MesDonnees\MesDonnees\bin\Debug\net6.0\MesDonnees.exe
+C:\Users\alima\source\repos\MesDonnees\MesDonnees\bin\Debug\net6.0\MesDonnees.deps.json
+C:\Users\alima\source\repos\MesDonnees\MesDonnees\bin\Debug\net6.0\MesDonnees.runtimeconfig.json
+C:\Users\alima\source\repos\MesDonnees\MesDonnees\bin\Debug\net6.0\MesDonnees.dll
+C:\Users\alima\source\repos\MesDonnees\MesDonnees\bin\Debug\net6.0\MesDonnees.pdb
+C:\Users\alima\source\repos\MesDonnees\MesDonnees\obj\Debug\net6.0\MesDonnees.csproj.AssemblyReference.cache
+C:\Users\alima\source\repos\MesDonnees\MesDonnees\obj\Debug\net6.0\MesDonnees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alima\source\repos\MesDonnees\MesDonnees\obj\Debug\net6.0\MesDonnees.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\MesDonnees\MesDonnees\obj\Debug\net6.0\MesDonnees.AssemblyInfo.cs
+C:\Users\alima\source\repos\MesDonnees\MesDonnees\obj\Debug\net6.0\MesDonnees.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\MesDonnees\MesDonnees\obj\Debug\net6.0\MesDonnees.dll
+C:\Users\alima\source\repos\MesDonnees\MesDonnees\obj\Debug\net6.0\refint\MesDonnees.dll
+C:\Users\alima\source\repos\MesDonnees\MesDonnees\obj\Debug\net6.0\MesDonnees.pdb
+C:\Users\alima\source\repos\MesDonnees\MesDonnees\obj\Debug\net6.0\MesDonnees.genruntimeconfig.cache
+C:\Users\alima\source\repos\MesDonnees\MesDonnees\obj\Debug\net6.0\ref\MesDonnees.dll
