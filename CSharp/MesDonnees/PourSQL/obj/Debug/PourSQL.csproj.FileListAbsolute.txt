@@ -1,0 +1,6 @@
+D:\IsiTech\Depot2\CSharp\MesDonnees\PourSQL\bin\Debug\PourSQL.dll
+D:\IsiTech\Depot2\CSharp\MesDonnees\PourSQL\bin\Debug\PourSQL.pdb
+D:\IsiTech\Depot2\CSharp\MesDonnees\PourSQL\obj\Debug\PourSQL.csproj.AssemblyReference.cache
+D:\IsiTech\Depot2\CSharp\MesDonnees\PourSQL\obj\Debug\PourSQL.csproj.CoreCompileInputs.cache
+D:\IsiTech\Depot2\CSharp\MesDonnees\PourSQL\obj\Debug\PourSQL.dll
+D:\IsiTech\Depot2\CSharp\MesDonnees\PourSQL\obj\Debug\PourSQL.pdb
