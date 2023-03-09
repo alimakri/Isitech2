@@ -1,15 +1,15 @@
 ﻿-- Exemple 1
 -- https://www.codeproject.com/Articles/28429/Basics-of-Using-a-NET-Assembly-in-MS-SQLServer-Use
+-- Etape 1 : Configurer SQL Server pour accepter le .Net
 use master
 go
--- Etape 1 : Configurer SQL Server pour accepter le .Net
 sp_configure 'clr enabled', 1
 GO
 RECONFIGURE
 GO
 
 -- Etape 2 : 
-CREATE ASYMMETRIC KEY CLRDateConvertionKey FROM EXECUTABLE FILE = 'D:\IsiTech\Depot\ClrSQL\bin\Debug\ClrSQL.dll'
+CREATE ASYMMETRIC KEY CLRDateConvertionKey FROM EXECUTABLE FILE = 'D:\IsiTech\Depot2\CSharp\MesDonnees\PourSQL\bin\Debug\PourSQL.dll'
 --select * from Sys.asymmetric_keys
 
 -- Etape 3 : 
@@ -23,7 +23,7 @@ GO
 CREATE USER CLRDateConvertionKeyLogin FOR LOGIN CLRDateConvertionKeyLogin;
 
 -- Etape 5 : installation de l'assembly dans AdventureWorks
-CREATE ASSEMBLY DateConvertAssembly FROM 'D:\IsiTech\Depot\ClrSQL\bin\Debug\ClrSQL.dll' WITH PERMISSION_SET = SAFE;
+CREATE ASSEMBLY DateConvertAssembly FROM 'D:\IsiTech\Depot2\CSharp\MesDonnees\PourSQL\bin\Debug\PourSQL.dll' WITH PERMISSION_SET = SAFE;
 GO
 
 --Etape 6 : 
@@ -34,13 +34,15 @@ AS
 GO
 
 -- Test
-SELECT dbo.DateConvert ('10/01/2020', 'dd-MMM-yyyy') as [Date];
+SELECT dbo.DateConvert ('10/01/2020', 'MM/dd/yyyy hh:mm:ss') as [Date];
 
 -- DROP
 DROP USER CLRDateConvertionKeyLogin
 DROP ASYMMETRIC KEY CLRDateConvertionKey
 DROP LOGIN CLRDateConvertionKeyLogin
 DROP FUNCTION [dbo].[DateConvert]
+DROP FUNCTION [dbo].Crypte
+DROP FUNCTION [dbo].Decrypte
 Drop ASSEMBLY DateConvertAssembly;
 
 -- **********************************************************************
